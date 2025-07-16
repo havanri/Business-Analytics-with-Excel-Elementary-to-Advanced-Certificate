@@ -21,7 +21,7 @@ Microsoft Excel (financial modeling, NPV functions, dynamic tables)
 
 ---
 
-## 2. 📈 Seasonally Adjusted Sales Forecast (1992–2019)
+## 2. 📈 Seasonally Adjusted Sales Forecast (1992–2011)
 
 **Description:**  
 A time series forecasting project using exponential regression to model and predict seasonally adjusted sales over a span of nearly three decades.
